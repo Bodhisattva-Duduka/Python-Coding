@@ -1,0 +1,10 @@
+a = int(input("Enter a number here: "))
+b = int(input("Enter a number here: "))
+c = int(input("Enter a number here: "))
+d = int(input("Enter a number here: "))
+e = int(input("Enter a number here: "))
+f = int(input("Enter a number here: "))
+g = int(input("Enter a number here: "))
+h = int(input("Enter a number here: "))
+set = {a,b,c,d,e,f,g,h}
+print(set)
